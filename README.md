@@ -22,3 +22,8 @@ Wallet Import Format Private Key: Kx5HGeDKCsX7Z1DU74kwbJjdtcKnZozbB728S96sP5eXQB
 Public Key: 04B6100DA7710438A2C3B1924B5AC1CEA66B1CC7A45B9AD682F1D70297D478AA39318511C6E61BE2756E0BB95352B8CFB250DF3DA8AF81225C9642CB7A9F743F3E
 Balance: 7777
 ```
+Install
+git clone https://github.com/cryptolog/bitforce/
+pip3 install wheel, bit, request, ecdsa
+- chmod +x bitforce.py
+- ./bitforce.py or python3 bitforce.py
